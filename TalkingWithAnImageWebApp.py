@@ -26,7 +26,7 @@ answer = ''
 
 if __name__ == "__main__":
     # Configure the Generative AI API with the API key from environment variables
-    genai.configure(api_key=os.getenv("GENAI_API_KEY"))
+    genai.configure(api_key=st.secrets["GENAI_API_KEY"])
     
     # Set up the Streamlit web application
     st.image("gemini.png")
