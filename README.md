@@ -1,5 +1,5 @@
 # Gemini Conversational ChatBot Web App
-
+(Reach out to me for access!)
 ## Overview
 
 This project is a Streamlit-based web application that allows users to interact with an image using Google Gemini's Generative AI model. Users can upload an image and ask questions about it. The AI provides intelligent responses based on the image content.
